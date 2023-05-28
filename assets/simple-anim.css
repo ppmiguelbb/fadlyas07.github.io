@@ -2,9 +2,9 @@
 /* Ryan Andri 2021 */
 
 .sa {
-    animation-duration: 2s;
+    animation-duration: 3s;
     animation-fill-mode: both;
-    -webkit-animation-duration: 2s;
+    -webkit-animation-duration: 3s;
     -webkit-animation-fill-mode: both
 }
 
